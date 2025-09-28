@@ -13,7 +13,7 @@ Sou um estudante de Engenharia de Controle e Automação apaixonado por tecnolog
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-alves-dos-santos-40555a259/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ProjetoSites)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FernandoSantos113)
 
 ---
 
@@ -31,11 +31,11 @@ Sou um estudante de Engenharia de Controle e Automação apaixonado por tecnolog
 ### Minhas Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/ProjetoSites">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProjetoSites&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/FernandoSantos113">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoSantos113&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjetoSites&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ProjetoSites&label=Profile%20views&color=0e75b6&style=flat" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=FernandoSantos113&label=Profile%20views&color=0e75b6&style=flat" alt="contador de visitas" />
 </p>
